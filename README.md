@@ -1,2 +1,2 @@
 # wallet-api
-Wallet API - Internet Engineering HW
+"Wallet API" including full CRUD implementation using Node.js - Internet Engineering HW
